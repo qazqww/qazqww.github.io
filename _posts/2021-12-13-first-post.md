@@ -11,12 +11,13 @@ toc: true
 toc_sticky: true
  
 date: 2021-12-13
-last_modified_at: 2021-12-13
+last_modified_at: 2021-12-15
 ---
 
 # 블로그 시작
 
-https://ansohxxn.github.io/ 글을 보고 배우며 만든 블로그입니다.  
+<a href="https://ansohxxn.github.io/">https://ansohxxn.github.io/</a>
+의 글을 보고 배우며 만든 블로그입니다.  
 ```java
 System.out.println("Hello, Blog!");
 ```
