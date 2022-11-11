@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qazqww.github.io/sitemap.xml
