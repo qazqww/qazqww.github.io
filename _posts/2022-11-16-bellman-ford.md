@@ -40,3 +40,16 @@ tags: [graph]
 #### 관련 알고리즘 문제
 
 백준 [11657 타임머신](https://www.acmicpc.net/problem/11657)
+
+
+<details>
+<summary>그리고 위 문제를 푸는 데에 참고한 글</summary>
+<div markdown="1">
+
+- 음수 사이클이 존재하는 경우 underflow  
+[https://www.acmicpc.net/board/view/50448](https://www.acmicpc.net/board/view/50448)
+
+- 닿지 않는 부분에 있는 음수 사이클  
+[https://www.acmicpc.net/board/view/52434](https://www.acmicpc.net/board/view/52434)
+</div>
+</details>
