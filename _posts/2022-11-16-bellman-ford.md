@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "벨만-포드 알고리즘"
+title: "벨만-포드 알고리즘"
 categories: algorithm
 tags: [graph]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "새 블로그에서 다시 시작"
+title: "새 블로그에서 다시 시작"
 categories: blog
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "블로그 오류 일지"
+title: "블로그 오류 일지"
 categories: blog
 ---
 
