@@ -3,6 +3,7 @@ _site
 .sass-cache
 .vagrant
 backup
+memo.txt
 
 # general
 .DS_Store
