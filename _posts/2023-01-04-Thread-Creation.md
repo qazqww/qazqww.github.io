@@ -10,7 +10,7 @@ tags: [java, thread]
 
 ### 스레드 생성
 #### 1. 인스턴스 생성
-```Java
+```java
 Thread thread = new Thread(new Runnable() {
     @Override
     public void run() {
@@ -23,7 +23,7 @@ Thread 객체로 새로운 인스턴스를 생성하는 간단한 방법이다.\
 람다를 활용하여 더 간단하게 표현할 수도 있다.
 
 #### 2. Thread 클래스 확장(상속)
-```Java
+```java
 class NewThread extends Thread {
     @Override
     public void run() {
@@ -53,7 +53,7 @@ Thread.MAX_PRIORITY 같은 상수로 관리해줄 수도 있다.
 
 thread.setUncaughtExceptionHandler(UncaughtExceptionHandler u)
 
-```Java
+```java
 thread.setUncaughtExceptionHandler(new Thread.UncaughtExceptionHandler() {
     @Override
     public void uncaughtException(Thread t, Throwable e) {
@@ -68,7 +68,7 @@ Thread.sleep(long millis)\
 <br>
 
 ### 기타
-```Java
+```java
 List<Thread> threads = new ArrayList<>();
 for (Thread thread : threads) {
     thread.start();
