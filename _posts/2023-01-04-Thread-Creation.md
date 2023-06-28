@@ -2,7 +2,7 @@
 layout: post
 title: "Java 멀티 스레딩 - 2. 스레드 생성"
 categories: java
-tags: [java, thread]
+tags: [thread]
 ---
 
 ### *

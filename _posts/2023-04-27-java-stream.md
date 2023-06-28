@@ -2,7 +2,6 @@
 layout: post
 title: "Java Stream API"
 categories: java
-tags: [java]
 ---
 
 ## *

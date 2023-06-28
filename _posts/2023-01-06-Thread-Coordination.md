@@ -2,7 +2,7 @@
 layout: post
 title: "Java 멀티 스레딩 - 3. 스레드 조정"
 categories: java
-tags: [java, thread]
+tags: [thread]
 ---
 
 ### *
