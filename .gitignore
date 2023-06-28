@@ -4,6 +4,7 @@ _site
 .vagrant
 backup
 memo.txt
+notready
 
 # general
 .DS_Store
